@@ -9,12 +9,12 @@ In addition to security functions, the Smart Carpet can detect movement patterns
 
 🛠️ Hardware Used
 Component	Description
-ESP32-C6-Dev	Wi-Fi + BLE controller board for managing sensor input and display output
-1.3" OLED Display (B/W)	Small screen for showing real-time contextual data (weather, transit, etc.)
-FSR03DE Pressure Sensors (x4)	Pressure-sensitive resistors arranged in a 2×2 matrix within the doormat
-PIR Motion Sensor	Renkforce 1362990 – 360° motion detection to activate the display
-Environmental Sensors	Measures temperature, humidity, and atmospheric pressure
-Loudspeaker	Provides acoustic feedback (e.g., tone feedback for step patterns)
-Raspberry Pi 5	Runs Home Assistant, connects via MQTT for data handling & automation
+- ESP32-C6-Dev ->	Wi-Fi + BLE controller board for managing sensor input and display output
+- 1.3" OLED Display (B/W) ->	Small screen for showing real-time contextual data (weather, transit, etc.)
+- FSR03DE Pressure Sensors (x4) ->	Pressure-sensitive resistors arranged in a 2×2 matrix within the doormat
+- PIR Motion Sensor	Renkforce 1362990 –> 360° motion detection to activate the display
+- Environmental Sensors ->	Measures temperature, humidity, and atmospheric pressure
+- Loudspeaker ->	Provides acoustic feedback (e.g., tone feedback for step patterns)
+- Raspberry Pi 5 ->	Runs Home Assistant, connects via MQTT for data handling & automation
 
 

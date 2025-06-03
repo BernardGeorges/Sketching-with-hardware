@@ -17,6 +17,4 @@ Environmental Sensors	Measures temperature, humidity, and atmospheric pressure
 Loudspeaker	Provides acoustic feedback (e.g., tone feedback for step patterns)
 Raspberry Pi 5	Runs Home Assistant, connects via MQTT for data handling & automation
 
-[Project Report]()
-
 
